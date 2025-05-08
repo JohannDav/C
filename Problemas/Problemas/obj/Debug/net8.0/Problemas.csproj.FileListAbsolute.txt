@@ -1,0 +1,14 @@
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\bin\Debug\net8.0\Problemas.exe
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\bin\Debug\net8.0\Problemas.deps.json
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\bin\Debug\net8.0\Problemas.runtimeconfig.json
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\bin\Debug\net8.0\Problemas.dll
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\bin\Debug\net8.0\Problemas.pdb
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\obj\Debug\net8.0\Problemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\obj\Debug\net8.0\Problemas.AssemblyInfoInputs.cache
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\obj\Debug\net8.0\Problemas.AssemblyInfo.cs
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\obj\Debug\net8.0\Problemas.csproj.CoreCompileInputs.cache
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\obj\Debug\net8.0\Problemas.dll
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\obj\Debug\net8.0\refint\Problemas.dll
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\obj\Debug\net8.0\Problemas.pdb
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\obj\Debug\net8.0\Problemas.genruntimeconfig.cache
+C:\Users\jdqg2\OneDrive\Documents\Visual Studio 2022\Proyectos\Problemas\Problemas\obj\Debug\net8.0\ref\Problemas.dll
