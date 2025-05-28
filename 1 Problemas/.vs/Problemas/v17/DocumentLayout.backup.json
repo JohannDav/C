@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jdqg2\\.ssh\\C\\Problemas\\",
+  "WorkspaceRootPath": "C:\\Users\\jdqg2\\.ssh\\C\\1 Problemas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdqg2\\.ssh\\C\\Problemas\\Problemas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Problemas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABA21598-2E4D-4B4F-A8DB-0B37D05D7C29}|Problemas\\Problemas.csproj|c:\\users\\jdqg2\\.ssh\\c\\1 problemas\\problemas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA21598-2E4D-4B4F-A8DB-0B37D05D7C29}|Problemas\\Problemas.csproj|solutionrelative:problemas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jdqg2\\.ssh\\C\\Problemas\\Problemas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jdqg2\\.ssh\\C\\1 Problemas\\Problemas\\Program.cs",
               "RelativeDocumentMoniker": "Problemas\\Program.cs",
-              "ToolTip": "C:\\Users\\jdqg2\\.ssh\\C\\Problemas\\Problemas\\Program.cs",
+              "ToolTip": "C:\\Users\\jdqg2\\.ssh\\C\\1 Problemas\\Problemas\\Program.cs",
               "RelativeToolTip": "Problemas\\Program.cs",
-              "ViewState": "AgIAALIAAAAAAAAAAAAQwBgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwKkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T00:33:38.952Z",
               "EditorCaption": ""

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jdqg2\\OneDrive\\Documents\\Visual Studio 2022\\Proyectos\\Problemas\\Problemas\\Problemas.csproj": {}
+    "C:\\Users\\jdqg2\\.ssh\\C\\1 Problemas\\Problemas\\Problemas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jdqg2\\OneDrive\\Documents\\Visual Studio 2022\\Proyectos\\Problemas\\Problemas\\Problemas.csproj": {
+    "C:\\Users\\jdqg2\\.ssh\\C\\1 Problemas\\Problemas\\Problemas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jdqg2\\OneDrive\\Documents\\Visual Studio 2022\\Proyectos\\Problemas\\Problemas\\Problemas.csproj",
+        "projectUniqueName": "C:\\Users\\jdqg2\\.ssh\\C\\1 Problemas\\Problemas\\Problemas.csproj",
         "projectName": "Problemas",
-        "projectPath": "C:\\Users\\jdqg2\\OneDrive\\Documents\\Visual Studio 2022\\Proyectos\\Problemas\\Problemas\\Problemas.csproj",
+        "projectPath": "C:\\Users\\jdqg2\\.ssh\\C\\1 Problemas\\Problemas\\Problemas.csproj",
         "packagesPath": "C:\\Users\\jdqg2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jdqg2\\OneDrive\\Documents\\Visual Studio 2022\\Proyectos\\Problemas\\Problemas\\obj\\",
+        "outputPath": "C:\\Users\\jdqg2\\.ssh\\C\\1 Problemas\\Problemas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

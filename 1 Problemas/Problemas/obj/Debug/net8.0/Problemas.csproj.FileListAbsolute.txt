@@ -27,3 +27,18 @@ C:\Users\jdqg2\.ssh\C\Problemas\Problemas\obj\Debug\net8.0\refint\Problemas.dll
 C:\Users\jdqg2\.ssh\C\Problemas\Problemas\obj\Debug\net8.0\Problemas.pdb
 C:\Users\jdqg2\.ssh\C\Problemas\Problemas\obj\Debug\net8.0\Problemas.genruntimeconfig.cache
 C:\Users\jdqg2\.ssh\C\Problemas\Problemas\obj\Debug\net8.0\ref\Problemas.dll
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\bin\Debug\net8.0\Problemas.exe
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\bin\Debug\net8.0\Problemas.deps.json
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\bin\Debug\net8.0\Problemas.runtimeconfig.json
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\bin\Debug\net8.0\Problemas.dll
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\bin\Debug\net8.0\Problemas.pdb
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\obj\Debug\net8.0\Problemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\obj\Debug\net8.0\Problemas.AssemblyInfoInputs.cache
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\obj\Debug\net8.0\Problemas.AssemblyInfo.cs
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\obj\Debug\net8.0\Problemas.csproj.CoreCompileInputs.cache
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\obj\Debug\net8.0\Problemas.sourcelink.json
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\obj\Debug\net8.0\Problemas.dll
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\obj\Debug\net8.0\refint\Problemas.dll
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\obj\Debug\net8.0\Problemas.pdb
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\obj\Debug\net8.0\Problemas.genruntimeconfig.cache
+C:\Users\jdqg2\.ssh\C\1 Problemas\Problemas\obj\Debug\net8.0\ref\Problemas.dll
