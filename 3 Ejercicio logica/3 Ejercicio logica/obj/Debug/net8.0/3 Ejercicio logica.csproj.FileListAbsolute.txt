@@ -1,0 +1,15 @@
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\obj\Debug\net8.0\3 Ejercicio logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\obj\Debug\net8.0\3 Ejercicio logica.AssemblyInfoInputs.cache
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\obj\Debug\net8.0\3 Ejercicio logica.AssemblyInfo.cs
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\obj\Debug\net8.0\3 Ejercicio logica.csproj.CoreCompileInputs.cache
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\obj\Debug\net8.0\3 Ejercicio logica.sourcelink.json
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\bin\Debug\net8.0\3 Ejercicio logica.exe
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\bin\Debug\net8.0\3 Ejercicio logica.deps.json
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\bin\Debug\net8.0\3 Ejercicio logica.runtimeconfig.json
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\bin\Debug\net8.0\3 Ejercicio logica.dll
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\bin\Debug\net8.0\3 Ejercicio logica.pdb
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\obj\Debug\net8.0\3 Ejercicio logica.dll
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\obj\Debug\net8.0\refint\3 Ejercicio logica.dll
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\obj\Debug\net8.0\3 Ejercicio logica.pdb
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\obj\Debug\net8.0\3 Ejercicio logica.genruntimeconfig.cache
+C:\Users\jdqg2\.ssh\C\3 Ejercicio logica\3 Ejercicio logica\obj\Debug\net8.0\ref\3 Ejercicio logica.dll
